@@ -1,5 +1,6 @@
 # Deteksi-Warna-Uji-Konfirmasi-Barang-Bukti-Kekerasan-Seksual
 Untuk mengidentifikasi apakah sebuah kasus termasuk kekerasan seksual atau bukan, maka diperlukan sebuah bukti yang mengandung sperma pelaku. Barang bukti yang sering ditemukan pada kasus kekerasan seksual adalah kain (seperti sprei, selimut, atau pakaian korban) yang mengandung cairan. Untuk menguji apakah cairan pada barang bukti adalah sperma atau bukan maka dibutuhkan suatu proses pengujian, salah satunya adalah dengan meneteskan larutan brentamine pada sample. Apabila sample tersebut adalah positif sperma, maka akan timbul warna Ungu dengan RGB tertentu. 
-Project ini bertujuan untuk membuat aplikasi pendeteksi warna hasil dari pengujian tersebut. Harapannya dengan aplikasi ini, maka hasil deteksi akan semakin akurat karena berdasarkan nilai RGB menggunakan prinsip pencitraan.
+Project ini bertujuan untuk membuat program pendeteksi warna hasil dari pengujian tersebut. Harapannya dengan aplikasi ini, maka hasil deteksi akan semakin akurat karena berdasarkan nilai RGB menggunakan prinsip pencitraan.
 Pada project ini pengujian berlaku hanya ketika cairan pada barang bukti sudah ada selama 90, 100, 110, dan 120 hari. (Kasus baru diinvestigasi/diinvestigasi ulang 3-4 bulan sejak kejadian).
 File pertama yang dibuka adalah 'Mumtazah1' -> 'Petunjuk1' (bisa dilewatkan) -> 'Petunjuk2' (bisa dilewatkan) -> 'MumtazahHari' -> 'Mumtazah 90/100/110/120 file'
+File 'Mumtazah_TugasAkhir' merupakan hasil ekstrak dari program sehingga program dapat dijalankan di komputer/laptop manapun
